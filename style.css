@@ -34,17 +34,19 @@ body {
 a {
   height: 50px;
   text-decoration: none; 
-  paddinhg: 5px;}
+  paddinhg: 5px;
+}
 
 li {
   text-decoration: none;
   font-size: 12px;
- }
+}
 
 nav ul {
   background: #bba1b8;
   list-style-type: none;
-  overflow: auto; }
+  overflow: auto; 
+}
 
 .hero {
   background: url("http://slawekrawicz.home.pl/ftp/pinkrabbit/WWW/PORTFOLIO/tlo8.jpg");
@@ -109,10 +111,12 @@ nav ul {
 
 .text {
   color: #fff;
-  letter-spacing: 0; }
+  letter-spacing: 0; 
+}
 
 .layer {
-  display: none; }
+  display: none; 
+}
 
 .picture4 {
   background: url("http://slawekrawicz.home.pl/ftp/pinkrabbit/WWW/PORTFOLIO/tlo9.jpg");
@@ -121,17 +125,20 @@ nav ul {
 }
 
 .info p {
-  font-size: 12px; }
+  font-size: 12px; 
+}
 
 h3 {
   letter-spacing: 4px;
   font-size: 14px;
-  padding-top: 20px; }
+  padding-top: 20px; 
+}
 
 h4 {
   font-size: 13px;
   color: #FFF;
-  padding: 10px; }
+  padding: 10px; 
+}
 
 .footer2,
 .footer {
@@ -181,80 +188,105 @@ h4 {
 
 @media (min-width: 768px) {
   .col-1 {
-    width: 8.33333%; }
+    width: 8.33333%; 
+  }
 
   .col-2 {
-    width: 16.66667%; }
+    width: 16.66667%; 
+  }
 
   .col-3 {
-    width: 25%; }
+    width: 25%; 
+  }
 
   .col-4 {
-    width: 33.33333%; }
+    width: 33.33333%; 
+  }
 
   .col-5 {
-    width: 41.66667%; }
+    width: 41.66667%; 
+  }
 
   .col-6 {
-    width: 50%; }
+    width: 50%; 
+  }
 
   .col-7 {
-    width: 58.33333%; }
+    width: 58.33333%; 
+  }
 
   .col-8 {
-    width: 66.66667%; }
+    width: 66.66667%; 
+  }
 
   .col-9 {
-    width: 75%; }
+    width: 75%; 
+  }
 
   .col-10 {
-    width: 83.33333%; }
+    width: 83.33333%; 
+  }
 
   .col-11 {
-    width: 91.66667%; }
+    width: 91.66667%; 
+  }
 
   .col-12 {
-    width: 100%; }
+    width: 100%; 
+  }
 
   .col-s-offset-1 {
-    margin-left: 8.33333%; }
+    margin-left: 8.33333%; 
+  }
 
   .col-s-offset-2 {
-    margin-left: 16.66667%; }
+    margin-left: 16.66667%; 
+  }
 
   .col-s-offset-3 {
-    margin-left: 25%; }
+    margin-left: 25%; 
+  }
 
   .col-s-offset-4 {
-    margin-left: 33.33333%; }
+    margin-left: 33.33333%; 
+  }
 
   .col-s-offset-5 {
-    margin-left: 41.66667%; }
+    margin-left: 41.66667%; 
+  }
 
   .col-s-offset-6 {
-    margin-left: 50%; }
+    margin-left: 50%; 
+  }
 
   .col-s-offset-7 {
-    margin-left: 58.33333%; }
+    margin-left: 58.33333%; 
+  }
 
   .col-s-offset-8 {
-    margin-left: 66.66667%; }
+    margin-left: 66.66667%; 
+  }
 
   .col-s-offset-9 {
-    margin-left: 75%; }
+    margin-left: 75%; 
+  }
 
   .col-s-offset-10 {
-    margin-left: 83.33333%; }
+    margin-left: 83.33333%; 
+  }
 
   .col-s-offset-11 {
-    margin-left: 91.66667%; }
+    margin-left: 91.66667%; 
+  }
 
   [class*="col-"] {
     min-height: 1px;
-    float: left; }
+    float: left; 
+  }
 
   .header {
-    height: 50px; }
+    height: 50px; 
+  }
 
   .logo {
     float: left;
@@ -274,28 +306,33 @@ h4 {
     height: 50px;
     line-height: 50px;
     padding: 0 10px;
-}
+  }
 
   nav {
     width: 100%;
     top: 0;
-    text-align: center; }
+    text-align: center; 
+  }
 
   nav ul {
-    float: right; }
+    float: right; 
+  }
 
   nav ul li {
-    display: inline-block; }
+    display: inline-block; 
+  }
 
   .hero {
-    height: 300px; }
+    height: 300px; 
+  }
 
   .slogan {
     background: rgba(108, 2, 88, 0.3);
     height: 300px;
     padding: 5px;
     text-align: center;
-    margin: 0 auto; }
+    margin: 0 auto; 
+  }
 
   .logo2 {
     width: 400px;
@@ -305,10 +342,12 @@ h4 {
 
   h1 {
     color: #fd703a;
-    padding-top: 25px; }
+    padding-top: 25px; 
+  }
 
   p {
-    color: #fff; }
+    color: #fff; 
+  }
   
   .guide {
     width: 400px;
@@ -321,7 +360,8 @@ h4 {
 
   .gallery p {
     color: #fff;
-    margin: 10px; }
+    margin: 10px; 
+  }
 
   .text {
     font-size: 12px; }
@@ -329,10 +369,12 @@ h4 {
   .photos img {
     float: left;
     width: 100%;
-    padding: 10px; }
+    padding: 10px; 
+  }
 
   .photos {
-    position: relative; }
+    position: relative; 
+  }
 
   .layer .fa-camera-retro,
   .layer .fa-link {
@@ -342,20 +384,24 @@ h4 {
     color: rgba(255, 255, 255, 0.8);
     position: relative;
     top: 50%;
-    transform: translateY(-50%); }
+    transform: translateY(-50%); 
+  }
 
   .layer {
     background: rgba(108, 2, 88, 0.2);
     position: absolute;
     width: 100%;
     height: 100%;
-    text-align: center; }
+    text-align: center; 
+  }
 
   .photos:hover .layer {
-    display: block; }
+    display: block; 
+  }
 
   h2 {
-    letter-spacing: 4px; }
+    letter-spacing: 4px; 
+  }
 
   .info{
     height: 280px;
@@ -387,71 +433,91 @@ h4 {
 
 @media (max-width: 767px) {
   .col-1 {
-    width: 8.33333%; }
+    width: 8.33333%; 
+  }
 
   .col-2 {
-    width: 16.66667%; }
+    width: 16.66667%; 
+  }
 
   .col-3 {
-    width: 25%; }
+    width: 25%; 
+  }
 
   .col-4 {
-    width: 33.33333%; }
+    width: 33.33333%; 
+  }
 
   .col-5 {
-    width: 41.66667%; }
+    width: 41.66667%; 
+  }
 
   .col-6 {
-    width: 50%; }
+    width: 50%; 
+  }
 
   .col-7 {
-    width: 58.33333%; }
+    width: 58.33333%; 
+  }
 
   .col-8 {
-    width: 66.66667%; }
+    width: 66.66667%; 
+  }
 
   .col-9 {
-    width: 75%; }
+    width: 75%; 
+  }
 
   .col-10 {
-    width: 83.33333%; }
+    width: 83.33333%; 
+  }
 
   .col-11 {
-    width: 91.66667%; }
+    width: 91.66667%; 
+  }
 
   .col-12 {
-    width: 100%; }
+    width: 100%; 
+  }
 
   [class*="col-"] {
     min-height: 1px;
     display: block;
     text-align: center;
     width: 100%;
-    margin: 0 auto; }
+    margin: 0 auto; 
+  }
 
   .header {
     width: 100%;
-    text-align: center; }
+    text-align: center; 
+  }
 
   .logo {
     padding-top: 15px;
-    text-align: center; }
+    text-align: center; 
+  }
 
   a {
-    color: #fff; }
+    color: #fff; 
+  }
 
   li {
     line-height: 40px;
-    padding: 5px; }
+    padding: 5px; 
+  }
 
   nav ul {
-    float: none; }
+    float: none; 
+  }
 
   nav ul li {
-    display: block; }
+    display: block; 
+  }
 
   .hero {
-    height: 220px; }
+    height: 220px; 
+  }
 
   .logo2 {
     height: 170px;
@@ -459,7 +525,8 @@ h4 {
   }
 
   h1 {
-    display: none; }
+    display: none; 
+  }
 
   .guide {
     width: 280px;
@@ -472,32 +539,39 @@ h4 {
 
   .gallery {
     margin: 10px 0;
-    width: 100%; }
+    width: 100%; 
+  }
 
   .gallery p {
     color: #FFF;
     margin-top: 7px;
     padding: 4px; 
-    font-size: 14px;}
+    font-size: 14px;
+  }
 
   .text {
     font-size: 10px;
-    padding: 2px; }
+    padding: 2px; 
+  }
 
   .photos img {
     text-align: center;
     padding: 10px 0;
-    width: 70%; }
+    width: 70%; 
+  }
 
   .photos {
     display: block;
-    padding-top: 10px; }
+    padding-top: 10px; 
+  }
 
   h2 {
-    letter-spacing: 2px; }
+    letter-spacing: 2px; 
+  }
 
   .picture4 {
-    height: 250px; }
+    height: 250px; 
+  }
 
   .info {
     text-align: center;
@@ -506,11 +580,13 @@ h4 {
   }
 
   .info p {
-    padding: 10px; }
+    padding: 10px; 
+  }
 
   h3 {
     color: #fff;
-    padding-top: 60px; }
+    padding-top: 60px; 
+  }
 
   .footer {
     width: 100%;
